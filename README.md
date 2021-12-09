@@ -1,3 +1,4 @@
-# Week10PRODEV
- <title>Breakfast</title>
- <p>I had waffles iwth maple syrup and juice<\p>
+# Breakfast
+I had waffles with maple syrup and juice
+[LinkedIn](https://www.linkedin.com/in/ethan-mcgrath-464596198/)
+[Octocat](octocat.png)
